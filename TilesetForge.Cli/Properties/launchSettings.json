@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TilesetForge.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "pack --in \".\\tiles\" --out \".\\export\" --tw 1024 --th 1024 --maxwidth 4096\r\n\r\n\r\n",
+      "workingDirectory": "C:\Users\USER\source\\repos\\TilesetForge\\"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
